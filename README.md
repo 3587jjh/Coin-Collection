@@ -1,4 +1,6 @@
 # Coin-Collection
-abcde
+Apply reinforcement learning (Q-Learning) to a coin collecting game
 
-abc
+(1) define the state and reward for the game
+
+(2) modify the code about Q value for the given state

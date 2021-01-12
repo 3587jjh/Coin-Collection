@@ -1,3 +1,3 @@
 # Coin-Collection
-abcde
+abcde\n
 abc
